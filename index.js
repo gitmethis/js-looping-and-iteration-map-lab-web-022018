@@ -16,5 +16,5 @@ function nameToAttributes(drivers_arr){
 }
 
 function attributesToPhrase(drivers_array_of_objects){
-  
+  let results_arr = 
 }
