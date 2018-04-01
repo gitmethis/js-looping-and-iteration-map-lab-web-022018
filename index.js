@@ -15,6 +15,6 @@ function nameToAttributes(drivers_arr){
   return results_arr
 }
 
-function attributesToPhrase(){
+function attributesToPhrase(drivers_object){
   
 }
